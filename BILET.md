@@ -6,6 +6,8 @@ Badanie i rozwój obejmują wszystkie bukwy głagoliczne z przyjętych źródeł
 
 Dobór krótszej ligatury lub mniejszego zestawu do konkretnego wykonania nie zmniejsza repertuaru systemu i nie zastępuje badań potencjału wszystkich liter. Zachowujemy wcześniejsze katalogi i interpretacje ze źródłami oraz statusem.
 
+**Pierwszeństwo badawcze mają bukwy, warianty i zastosowania, których jeszcze nie rozumiemy.** Aktywnie wyszukujemy je w źródłach i wcześniejszych katalogach, badamy hipotezy ich działania oraz rozstrzygamy wątpliwości dotyczące zastosowań. Każda luka otrzymuje źródła, pytanie badawcze, sposób sprawdzenia, wynik i pozostałe niepewności. Nierozstrzygniętych kwestii nie oznaczamy jako wyjaśnionych; niepotwierdzenie jednego zastosowania nie wyklucza bukwy.
+
 Ta zasada ma pierwszeństwo przed poniższą roboczą zasadą biletów. Pełny zapis: [AISHA / ZASADA_NADZRZEDNA.md](https://github.com/perun1978/AISHA/blob/main/ZASADA_NADZRZEDNA.md).
 
 Krótka definicja robocza (pełniejsza wersja w repo AISHA).
