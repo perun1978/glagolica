@@ -1,5 +1,13 @@
 # BILET
 
+## Zasada zero — pełny potencjał wszystkich bukw
+
+Badanie i rozwój obejmują wszystkie bukwy głagoliczne z przyjętych źródeł, również pojedynczo, wraz z wariantami i warstwami odczytu. Rozpoznajemy i rozwijamy zastosowania każdej litery. Nie wolno ograniczać pełnej Głagolicy do obecnych 30 operatorów ani usuwać bukwy dlatego, że jej funkcja nie została jeszcze rozpoznana lub zaimplementowana.
+
+Dobór krótszej ligatury lub mniejszego zestawu do konkretnego wykonania nie zmniejsza repertuaru systemu i nie zastępuje badań potencjału wszystkich liter. Zachowujemy wcześniejsze katalogi i interpretacje ze źródłami oraz statusem.
+
+Ta zasada ma pierwszeństwo przed poniższą roboczą zasadą biletów. Pełny zapis: [AISHA / ZASADA_NADZRZEDNA.md](https://github.com/perun1978/AISHA/blob/main/ZASADA_NADZRZEDNA.md).
+
 Krótka definicja robocza (pełniejsza wersja w repo AISHA).
 
 **Bilet** to rzadka ligatura (lub inna rzadka struktura), która sama wykonuje ruch pola porównywalny do gęstszej procedury.
